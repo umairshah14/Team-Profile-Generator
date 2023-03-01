@@ -1,4 +1,4 @@
-# README Generator
+# Team Profile Generator
 
 ## Description
 I created this repository to hold my submission for the week 12 challenge which was to create a team profile generator, to run the team profile generator you simply run the following command: node index.js once youve opened the repository in your terminal. Once its run, it will ask a series of questions in your terminal, the answers recieved will then be displayed in a new HTML file that appears in the "output" folder
