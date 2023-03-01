@@ -144,18 +144,6 @@ const renderPage = () =>{
       });
 }
 
-// function writeToFile() {
-
-//     const indexPage = render(employeeArr)
-    
-//     fs.writeFile(outputPath, indexPage, (err) => {
-//         if (err)
-//           console.log(err);
-//         else {
-//           console.log("File written successfully\n");
-//         }
-//       });
-// }
 
 promptUser()
 
